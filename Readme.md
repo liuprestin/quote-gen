@@ -30,4 +30,13 @@ notice:
 - website frontend was done 1st in this case
 - note the considerations made when they look at it, they consider what this website/app is running on and relative readability
 - when implementing the site they work very efficently on setting it up
-- one is also aware where each element is wanted to be placed...
+- one is also aware where each element is wanted to be placed... down to the geometric measurement (engineering pov)
+- feels much more intentional on how they do things
+- what do you (or "we") want? 
+- how do you target each element? (literally via its id or class)
+- what are the pesudo classes?
+- notice how console.log() (and similar print functions) are used to implement checking for a response...
+
+quotes api
+- plenty online
+- https://type.fit/api/quotes
