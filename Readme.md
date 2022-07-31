@@ -40,6 +40,12 @@ notice:
 - also note how they break functions down - based on what is wanted. Ie. we want the quotes to be random - so we can break the request down by another function...
 
 
+implementing html<-->js connection 
+be aware of dom how how ids and classes are accessed
+declare at the beginning:
+eg.
+const quoteContainer = document.getElementById('quote-container');
+
 quotes api
 - plenty online
 - https://type.fit/api/quotes
