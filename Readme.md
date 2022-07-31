@@ -49,3 +49,6 @@ const quoteContainer = document.getElementById('quote-container');
 quotes api
 - plenty online
 - https://type.fit/api/quotes
+
+say you want to integrate twitter:
+- https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent
