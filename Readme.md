@@ -36,6 +36,9 @@ notice:
 - how do you target each element? (literally via its id or class)
 - what are the pesudo classes?
 - notice how console.log() (and similar print functions) are used to implement checking for a response...
+- notice that console.log() displays the object type and the dev can see whats in the object. HERE we can determine how to use and access other parts of that object (eg. array)
+- also note how they break functions down - based on what is wanted. Ie. we want the quotes to be random - so we can break the request down by another function...
+
 
 quotes api
 - plenty online
