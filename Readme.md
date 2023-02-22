@@ -52,3 +52,8 @@ quotes api
 
 say you want to integrate twitter:
 - https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent
+
+----
+
+Last task: share it here:
+https://github.com/zero-to-mastery/javascript20-projects
